@@ -3,7 +3,7 @@
 ### Shrug Book is a chrome extension that allows students to keep track of all their assignments from Canvas on Todoist at the click of a button!
 
 #### Step1 : 
-![alt text](1.jpg)
+![](1.JPG)
 
 #### Step2 : Click on 'Load Tasks'
 ![alt text](2.jpg)
